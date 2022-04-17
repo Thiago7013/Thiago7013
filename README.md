@@ -2,6 +2,7 @@
 
 🔭 Atualmente trabalho com Segurança Privada  <br>
 📕 Estudando Desenvolvimento Web na Plataforma da Rocketseat <br>
+🚀 Registre-se tmabém e embarque nesse mundo:https://www.rocketseat.com.br/discover 
 📞 Contate-me (11) 99902-4220 <br>
 ✈ Recentemente conheci o mundo da tecnologia e fiquei surpreendido com esse mundo de possibilidades, então decidi embaracar nessa jornada e transformar a minha vida.
 
