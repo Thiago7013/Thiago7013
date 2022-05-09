@@ -7,7 +7,7 @@
 ✈ Recentemente conheci a área da tecnologia e fiquei surpreendido com esse mundo de possibilidades, então decidi embaracar nessa nova jornada e transformar a minha vida.
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Thiago7013">
   <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Thiago7013&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago7013&layout=compact&langs_count=7&theme=dark"/>
 </div> <br>
